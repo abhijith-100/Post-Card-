@@ -9,6 +9,14 @@ Hover effect on the “Read More” button.
 Minimal, beginner-friendly HTML + CSS.
 
 
+
+# 📸 Preview
+
+Here’s how the Post Card looks:
+
+![Post Card Screenshot](images/screenshot.png)
+
+
 🛠️ Technologies Used
 
 HTML5
