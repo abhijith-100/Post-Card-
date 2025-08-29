@@ -14,7 +14,7 @@ Minimal, beginner-friendly HTML + CSS.
 
 Here’s how the Post Card looks:
 
-![Post Card Screenshot](images/blog-post.png)
+![Post Card Screenshot](blog-post.png)
 
 
 🛠️ Technologies Used
